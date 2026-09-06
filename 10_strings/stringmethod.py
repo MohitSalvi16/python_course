@@ -1,6 +1,6 @@
 s=" Mohit Salvi "
 
-name[0]="R"
+# name[0]="R"
 print(s)
 a=len(s)
 
